@@ -4,4 +4,5 @@ for å prøve filene må du åpne terminalen/[fyll in hva terminalen heter på w
 
 
 # Download
-for å downloade må du trykke på download som zip fra den grønne "<>code" knappen.
+for å downloade må du trykke på "download zip" fra den grønne "<>code" knappen.
+
