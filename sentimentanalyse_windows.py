@@ -7,7 +7,7 @@ nlp = nb_core_news_md.load()
 
 current = getcwd()
 
-pipe = pickle.load(open(f".\windows_executable\_internal\language_model.sav", 'rb'))
+pipe = pickle.load(open(f".\_internal\language_model.sav", 'rb'))
 sent = ''
 result = None
 
