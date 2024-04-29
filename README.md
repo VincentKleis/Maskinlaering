@@ -15,7 +15,7 @@ cd .\Downloads\Maskinlaering-main
 
 derretter skriver du navnet på filen i konsollen:
 
-sentimentanaluse_windows.py
+sentimentanalyse_windows.py
 
 for eksempel:
 naviger inn i windows_executable mappen, derretter høyreklikk og velg "open in terminal", skriv så "sentimentanalyse_windows.exe" i windows powershell
