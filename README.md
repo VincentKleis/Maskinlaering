@@ -17,7 +17,7 @@ trykk på enter
 
 derretter skriver du navnet på filen i konsollen:
 
-sentimentanalyse.exe
+.\sentimentanalyse.exe
 
 og trykker på enter
 
