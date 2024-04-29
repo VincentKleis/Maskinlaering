@@ -19,7 +19,7 @@ derretter skriver du navnet på filen i konsollen:
 
 sentimentanalyse_windows.py
 
-og trukker på enter
+og trykker på enter
 
 for eksempel:
 naviger inn i windows_executable mappen, derretter høyreklikk og velg "open in terminal", skriv så "sentimentanalyse_windows.exe" i windows powershell
