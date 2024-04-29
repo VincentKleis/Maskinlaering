@@ -8,7 +8,7 @@ for å downloade må du trykke på "download zip" fra den grønne "<>code" knapp
 # Kjøre filen
 for å kjøre filen må du først pakke den ut,
 
-åpne så mappen og start programmet som heter "windows terminal".
+start programmet som heter "windows terminal".
 dersom mappen er i nedlastninger kan du navige inn i den ved å skrive denne kode:
 
 cd .\Downloads\Maskinlaering-main\windows_executable
