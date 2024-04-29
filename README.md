@@ -17,7 +17,7 @@ trykk på enter
 
 derretter skriver du navnet på filen i konsollen:
 
-sentimentanalyse_windows.py
+sentimentanalyse
 
 og trykker på enter
 
