@@ -9,9 +9,11 @@ for å downloade må du trykke på "download zip" fra den grønne "<>code" knapp
 for å kjøre filen må du først pakke den ut,
 
 start programmet som heter "windows terminal".
-dersom mappen er i nedlastninger kan du navige inn i den ved å skrive denne kode:
+dersom mappen er pakket ut i nedlastninger kan du navige inn i den ved å skrive denne kode:
 
 cd .\Downloads\Maskinlaering-main\windows_executable
+
+trykk på enter
 
 derretter skriver du navnet på filen i konsollen:
 
