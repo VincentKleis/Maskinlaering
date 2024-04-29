@@ -8,9 +8,14 @@ for å downloade må du trykke på "download zip" fra den grønne "<>code" knapp
 # Kjøre filen
 for å kjøre filen må du først pakke den ut,
 
-så åpne konsollen inne i mappen hvor filen er, på windows gjør du dette ved å høyreklikke i mappen og trykke på åpne konsoll,
+åpne så mappen og start programmet som heter "windows terminal".
+dersom mappen er i nedlastninger kan du navige inn i den ved å skrive denne kode:
 
-derretter skriver du navnet på filen i konsollen.
+cd .\Downloads\Maskinlaering-main
+
+derretter skriver du navnet på filen i konsollen:
+
+sentimentanaluse_windows.py
 
 for eksempel:
 naviger inn i windows_executable mappen, derretter høyreklikk og velg "open in terminal", skriv så "sentimentanalyse_windows.exe" i windows powershell
