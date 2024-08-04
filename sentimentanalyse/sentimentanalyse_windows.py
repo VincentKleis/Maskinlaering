@@ -1,5 +1,5 @@
 import pickle
-from sentimentanalyse.sentimentanalyse_funcs import lemmatizer
+from sentimentanalyse_funcs import lemmatizer
 from os import system, getcwd
 import nb_core_news_md
 
