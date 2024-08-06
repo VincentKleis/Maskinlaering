@@ -1,0 +1,53 @@
+Cap Shape_b Cap Shape_c Cap Shape_f Cap Shape_k Cap Shape_s Cap Shape_x 
+
+Cap Surface_f Cap Surface_g Cap Surface_s Cap Surface_y 
+
+Cap Color_b Cap Color_c Cap Color_e Cap Color_g Cap Color_n Cap Color_p 
+Cap Color_r Cap Color_u Cap Color_w Cap Color_y 
+
+Bruices_f Bruices_t 
+
+Odor_a Odor_c Odor_f Odor_l Odor_m Odor_n Odor_p Odor_s Odor_y
+
+Gill Attatchment_a Gill Attatchment_f 
+
+Gill Spacing_c Gill Spacing_w 
+
+Gill Size_b Gill Size_n 
+
+Gill Color_b Gill Color_e Gill Color_g Gill Color_h Gill Color_k Gill Color_n 
+Gill Color_o Gill Color_p Gill Color_r Gill Color_u Gill Color_w Gill Color_y
+
+Stalk Shape_e Stalk Shape_t 
+
+Stalk Root_? Stalk Root_b Stalk Root_c Stalk Root_e Stalk Root_r 
+
+Stalk Surface Above Ring_f Stalk Surface Above Ring_k Stalk Surface Above Ring_s
+Stalk Surface Above Ring_y 
+
+Stalk Surface Below Ring_f Stalk Surface Below Ring_k Stalk Surface Below Ring_s
+Stalk Surface Below Ring_y 
+
+Stalk Color Above Ring_b Stalk Color Above Ring_c Stalk Color Above Ring_e 
+Stalk Color Above Ring_g Stalk Color Above Ring_n Stalk Color Above Ring_o 
+Stalk Color Above Ring_p Stalk Color Above Ring_w Stalk Color Above Ring_y 
+
+Stalk Color Below Ring_b Stalk Color Below Ring_c Stalk Color Below Ring_e 
+Stalk Color Below Ring_g Stalk Color Below Ring_n Stalk Color Below Ring_o 
+Stalk Color Below Ring_p Stalk Color Below Ring_w Stalk Color Below Ring_y 
+
+Veil Type_p 
+
+Veil Color_n Veil Color_o Veil Color_w Veil Color_y 
+
+Ring Number_n Ring Number_o Ring Number_t 
+
+Ring Type_e Ring Type_f Ring Type_l Ring Type_n Ring Type_p 
+
+Spore Print Color_b Spore Print Color_h Spore Print Color_k 
+Spore Print Color_n Spore Print Color_o Spore Print Color_r
+Spore Print Color_u Spore Print Color_w Spore Print Color_y
+
+Population_a Population_c Population_n Population_s Population_v Population_y
+
+Habitat_d Habitat_g Habitat_l Habitat_m Habitat_p Habitat_u Habitat_w
