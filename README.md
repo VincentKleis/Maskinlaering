@@ -5,7 +5,7 @@
 install all
 ```bash
   pip install pip
-  pip install nump
+  pip install numpy
   pip install scikit-learn
   pip install pandas
   pip install matplotlib
