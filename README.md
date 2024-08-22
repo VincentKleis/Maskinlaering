@@ -1,4 +1,10 @@
 # Prerequisits :snake:
+[## Python 3]
+(https://realpython.com/installing-python/)
+
+## Python modules
+### numpy
+
 
 # AI
 her er noen eksempler på AI fra gruppe oppgaver jeg hadde på universitetet. alle programmene kjører i konsollen
