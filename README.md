@@ -1,4 +1,4 @@
-# Pre requisits :snake:
+# Prerequisits :snake:
 
 # AI
 her er noen eksempler på AI fra gruppe oppgaver jeg hadde på universitetet. alle programmene kjører i konsollen
