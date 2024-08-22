@@ -1,9 +1,82 @@
 # Prerequisits :snake:
 [Python 3](https://realpython.com/installing-python/)
 
-## Python modules
-### numpy
+### Python modules
+install all
+```bash
+  pip install pip
+  pip install nump
+  pip install scikit-learn
+  pip install pandas
+  pip install matplotlib
+  pip install seaborn
+  pip install scipy
+  pip install spacy
+  pip install ipython
+  pip install keras
+  pip install ipywidgets
+  pip install pillow
+```
 
+pip
+```bash
+  pip install pip
+```
+
+Numpy
+```bash
+  pip install numpy
+```
+
+Scikit learn
+```bash
+  pip install scikit-learn
+```
+
+Pandas
+```bash
+  pip install pandas
+```
+
+Matplotlib
+```bash
+  pip install matplotlib
+```
+
+Seaborn
+```bash
+  pip install seaborn
+```
+
+Scipy
+```bash
+  pip install scipy
+```
+
+Spacy
+```bash
+  pip install spacy
+```
+
+IPython
+```bash
+  pip install ipython
+```
+
+Keras
+```bash
+  pip install keras
+```
+
+Ipywidgets
+```bash
+  pip install ipywidgets
+```
+
+Pillow
+```bash
+  pip install pillow
+```
 
 # AI
 her er noen eksempler på AI fra gruppe oppgaver jeg hadde på universitetet. alle programmene kjører i konsollen
