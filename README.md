@@ -16,6 +16,7 @@ install all
   pip install keras
   pip install ipywidgets
   pip install pillow
+
 ```
 
 pip
