@@ -1,6 +1,5 @@
 # Prerequisits :snake:
-[## Python 3]
-(https://realpython.com/installing-python/)
+[Python 3](https://realpython.com/installing-python/)
 
 ## Python modules
 ### numpy
