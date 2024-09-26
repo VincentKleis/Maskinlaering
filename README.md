@@ -80,27 +80,9 @@ Pillow
 ```
 
 # AI
-her er noen eksempler på AI fra gruppe oppgaver jeg hadde på universitetet. alle programmene kjører i konsollen
+dette er gruppe prosjektet jeg hadde på universitetet inne maskinlæring, filen som heter "semesteroppgave.ipynb" er en analyse av typen maskinlæring som passer best til 3 problemstillinger:
+1. er en sopp giftig basert på karakteristikker
+2. er en setning positiv eller negativ, hvor treningdataen er tilbakemeldinger på teknologiske produkter
+3. er det en båt i bilder
 
-
-# Download
-for å downloade må du trykke på "download zip" fra den grønne "<>code" knappen.
-
-# Kjøre filen
-for å kjøre filen må du først pakke den ut,
-
-start programmet som heter "windows terminal".
-dersom mappen er pakket ut i nedlastninger kan du navige inn i den ved å skrive denne kode:
-
-cd .\Downloads\Maskinlaering-main\windows_executable
-
-trykk på enter
-
-derretter skriver du navnet på filen i konsollen:
-
-.\sentimentanalyse.exe
-
-og trykker på enter
-
-for eksempel:
-naviger inn i windows_executable mappen, derretter høyreklikk og velg "open in terminal", skriv så "sentimentanalyse_windows.exe" i windows powershell
+videre har jeg laget en versjon av 1 og 2 som er lettere å interagere med
